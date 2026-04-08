@@ -128,6 +128,9 @@ Feel free to fork this repository and submit pull requests for improvements or a
 Watch the demo here: 
 https://drive.google.com/file/d/1bKOj_HuvEPW6QVkiv1T5wHP3f-r_9zVs/view?usp=drivesdk
 
+---
+Documentation link
+https://drive.google.com/drive/folders/12SZ5IH6N47SMXlw6GnAKOUiQtS9h9HAi
 
 
 
